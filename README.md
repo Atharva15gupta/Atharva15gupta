@@ -3,7 +3,7 @@
 👋 Hey there, awesome human!<br>I’m an Artist, UI/UX Designer, and MERN Stack Developer, turning caffeine and code into digital masterpieces. Also fluent in C++ and JavaScript, because why settle for one awesome tool when you can have them all?<br><br>💻 What I Do:<br><br>Design interfaces that make users say, “Wow, this is so smooth!”<br>Build full-stack web apps that work like a charm.<br>Combine creativity and logic to solve problems in style.<br>🌱 Currently Learning: How to pack even more punch into my designs and dive deeper into cutting-edge web tech.<br><br>✨ Fun Fact: Ronaldo’s flair on the field inspires my coding hustle ⚽+💻 = 🎉
 
 ## 💻 Contributions:
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva15gupta/atharva15gupta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva15gupta/atharva15gupta/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/atharva15gupta/atharva15gupta/output/github-snake.svg" />
