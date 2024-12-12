@@ -3,7 +3,8 @@
 
 ## 💻 Contributions:
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJnc2F3NWZsNnJlaW12ZncybzI4Y3U3dWd1ZDRsYzkzbWltc3l1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.webp"  />
-<picture>
+
+<picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharva15gupta/atharva15gupta/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharva15gupta/atharva15gupta/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/atharva15gupta/atharva15gupta/output/github-snake.svg" />
