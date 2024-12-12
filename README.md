@@ -1,4 +1,8 @@
-<h2 align="left">👋 Hey there, awesome human!<br>🎨 I’m an Artist, UI/UX Designer, and MERN Stack Developer, turning ☕ caffeine and 💡 ideas into digital masterpieces. Also fluent in C++ and JavaScript, because why settle for one awesome tool when you can have them all?<br><br>💻 What I Do:<br><br>✨ Design interfaces that make users say, “Wow, this is so smooth!”<br><br>🔗 Build full-stack web apps that work like a charm.<br><br>🎯 Combine creativity and logic to solve problems in style.<br><br>🌱 Currently Learning: How to pack even more punch into my designs and dive deeper into cutting-edge web tech 🚀.<br><br>✨ Fun Fact: Ronaldo’s flair on the field ⚽ inspires my coding hustle.</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">👋 Hey there, awesome human!<br>🎨 I’m an Artist, UI/UX Designer, and MERN Stack Developer, turning ☕ caffeine and 💡 ideas into digital masterpieces. Also fluent in C++ and JavaScript, because why settle for one awesome tool when you can have them all?<br><br>💻 What I Do:<br><br>✨ Design interfaces that make users say, “Wow, this is so smooth!”<br><br>🔗 Build full-stack web apps that work like a charm.<br><br>🎯 Combine creativity and logic to solve problems in style.<br><br>🌱 Currently Learning: How to pack even more punch into my designs and dive deeper into cutting-edge web tech 🚀.<br><br>✨ Fun Fact: Ronaldo’s flair on the field ⚽ inspires my coding hus</p>
 
 ## 💻 Contributions:
 <picture align="center">
